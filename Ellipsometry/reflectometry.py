@@ -10,7 +10,7 @@ fig, axs = plt.subplots(1)
 Phi = 60
 
 n_min = 1.0
-n_max = 2.0
+n_max = 2.2
 n_n = 300
 
 _n = np.linspace(n_min, n_max, n_n)
